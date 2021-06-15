@@ -1,0 +1,76 @@
+Definicion de Ciberseguridad: Practica de defensa de todos los sistemas electronicos, redes informaticas, equipos informaticos,servidores.
+, moviles. 
+Practida de defensa de redes de computadoras y dispositivos.
+Categorias de Ciberseguridad:
+-Redes informaticas
+-Aplicaciones nativas, web, moviles y de escritorio.
+-Informacion y datos Bases de Datos y Servidores de datos.
+-Comunicacion digital(Redes Sociales)
+-Seguridad Operativa(Empresas y corporaciones publicas o privadas)
+-Recuperacion ante desastres y continuidad de negocios.
+-Capacitacion a usuarios finales.
+
+
+Todo lo que esta en la web esta sujeta a ser vulnerada por tanto no es seguro al 100% en la red
+Venta de informacion o de bases de datos por parte de empresas que tienen data nuestra a otras.
+
+"Las personas con mala ortografia crean las mejores contraseñas"
+
+¿Objetivos del curso?
+Tecnicas, herramietas, que permitan evitar la exposicion de informacion personal, corporativas que permitan
+minimizar riesgos de robo o vulneracion de nuestra informacion.
+
+-------Contexto de ciberseguridad en LATAM---------------------------------------------------
+Pais que mas sufre ataques de ciberseguridad en LATAM?
+Peru es el que sufre hasta el 25 % de ciberataques en Latam.
+¿Porque Peru es el pais que sufre mas ciberataques en LATAM?
+t.ly/AnfL
+
+-Mexico es el 2do. pais con un 20%
+-Argentina es el 3er. pais con un 15%
+-Brasil es el 4o. pais con un 10%
+-Colombia es el 5o. pais con un 5%
+
+Cuando se habla de ciberseguridad se habla de cibercrimen pero tambien es de caracter 
+preventiva para evitar exponer la informacion o que sea vulnerada.
+
+La ISACA define como una capa de proteccion para los datos y archivos de informacion de los mismos.
+y el conjunto de protocolos y tecnicas para realizar esto.
+
+Hay mas dispositivos que personas conectadas por tanto se hace necesario aplicar tecnicas de ciberseguridad. (Cisco).
+
+El eslavon mas debil en temas de ciberseguridad son los usuarios y estos pueden ser la puerta de entrada
+para los ciberataques.
+
+¿Cual creen que es el bien mas importante de cualquier empresa o institucion?
+-Son los datos que esta empresa genera, a partir de su giro economico y comercial, por tanto es la informacion.
+
+-Por tanto es importante la autenticacion y gestion mediante protocolos de seguridad, de ahi por tanto su importancia.
+-Lo real es que todas las empresas estan vulnerables a ciberataques, por tanto no se debe subestimar ni dar nada por hecho.
+
+------------------Riesgos mas comunes a prevenir ---------------------------------------------
+-Proteger datos de clientes.
+-Evitar perdidas millonarias.
+-Evitar mala imagen de la empresa y crisis de imagen corporativa.
+
+
+-La estrategia de ciberseguridad no se limita unicamente a poder proteger los datos y a crear protocolos preventivos
+sino tambien se dedica a crear estrategia de capacitacion a empleados y usuarios para evitar ataques o vulneraciones.
+
+*Los ataques ciberneticos, y robo de datos hacen parte de la lista de riesgos mas altos del mundo. La economia, la geopolitica y
+el medio ambiente tambien estan en la lista.
+ 
+*Las medidas de ciberseguridad crean ahorros en cuanto a poder tener mas controlados lo que son los riesgos
+es mas facil poder prevenir esto que pagar luego un rescate de datos.
+
+*No hay nada por sentado ni seguro al 100 % en la red.
+
+
+
+
+
+Paginas de interes y lecturas recomendadas:
+-Kaspersky Lab El Salvador
+-ESET Security Report.
+-OWASP marco de ciberseguridad.
+-Ley sobre Delitos Informaticos El Salvador.
