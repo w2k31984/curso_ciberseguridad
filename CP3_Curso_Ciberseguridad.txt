@@ -1,0 +1,46 @@
+-------------Confidencialidad, Integridad y Disponibilidad-------------------------------------------
+-Validar las implementaciones de politicas y protocolos de ciberseguridad.
+1-Pilares de la seguridad de la informacion.
+La ciberseguridad es una practica que consiste en tecnologias, procesos y controles diseñados
+para proteger una red, sistema y programas de ataques o vulnerabilidades ciberneticas.
+Tener una politica de seguridad cibernetica es efectiva reduce el riesgo de amenazas y tambien 
+tener politicas de autenticacion, usuarios y niveles de los mismos.
+Los pilares de seguridad de la informacionson:
+1-Las personas (Usuarios)
+2-Los Procesos(Revision y actualizacion)
+3-La Tecnologia.
+Triada CIA o CID es un triangulo en ingles es para guiar las politicas de seguridad de la informacion
+dentro de una organizacion.
+
+2-Confidencialidad
+Es equivalente a la privacidad y evitan que la informacion confidencial llegye a las personas
+equivocadas al tiempo que garantizan que las personas adecuadas la reciban, es comun que los datos
+se clasifiquen de acuerdo con la cantidad y el tipo de daño que se podria hacer si cae en manos
+no deseadas.
+
+3-Integridad
+Implica mantener siempre la consistencia, precision y confiabilidad de los datos durante el ciclo de vida.
+Los datos no deben modificarse en transito y deben tomarse medidas para garantizar que personas no autorizadas
+realizen alteraciones o modificaciones de archivos esto incluye medidas, permisos de archivos y controles de acceso de 
+usuarios.
+Garantiza que :
+No se realizan modificaciones de datos en un sistema por personal o procesos no autorizados.
+Implementacion de la informacion = Redundancia proporcionar un ancho de banda de comunicacion adecuado para prevenir
+la aparicion de cuellos de botella son igualmente importantes La redundancia, la commutacion por error RAID, incluso los clusteres de alta disponibilidad
+pueden mitigar las consecuencias de hardware.
+
+4-Disponibilidad
+e trata de la capacidad de un servicio, un sistema o una información, a ser accesible y utilizable por los usuarios o procesos autorizados cuando 
+éstos lo requieran. 
+
+Herramientas de interes:
+-¿Que son archivos ISO? Es la imagen o el clonado de todo fichero que puede ser un sistema, un software o videojuego.
+Hay diferentes tipos para diferentes programas.
+
+-Rufus hace una usb un archivo de instalacion o boot para correr en ese equipo.
+
+-Hiren boot : Herramienta para poder vulnerar windows y poder asi ingresar al equipo.
+
+
+
+

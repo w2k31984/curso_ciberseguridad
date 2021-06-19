@@ -1,0 +1,52 @@
+-----------------------Definiciones y conceptos de ciberseguridad.-----------------
+1) Ciberespacio
+Se refiere a un entorno no fisico creado por equipos de comput unidos para interoperar en una
+red.
+Y tiene como base componentes de hardware y software como infraestructura.
+las operaciones del equipo pueden interactuar de manera parecida al mundo real no requiere del movimiento fisico
+mas haya que el de escribir y es la fuente mas grande de informacion del mundo llamado internet.
+La informacion se puede intercambiar en tiempo real o en tiempo diferido. Tiene un marge de error del 1%
+
+Caracteristicas:
+1-Identidad flexible y anonimato.
+2-Mismas oportunidades de comunicacion algunos llaman a esto Democracia Net.
+3-Trasciende limites espaciales y distancias geograficas no limitan la comunicacion.
+4-Tiempo extendido y condensado puede haber comunicacion por cualquier via en internet.
+
+
+2)La nube computacional
+Describe una red mundial de servidores, cada uno con una funcion unica. La nube no es una entidad fisica
+sino una red enorme de servidores remotos de todo el mundo que estan conectadospara funcionar como un 
+ecosistema unico.
+Estos estan diseñados para almacenar y administrar datos, ejecutar aplicaciones o entregar contenidos o servicios, streaming de videos, correo web, etc
+
+3)Seguridad de la informacion
+Conjunto de medidas preventivas y reactivas que permiten resguardar y proteger informacion, dicho de otro modo son politicas
+denuso y medidas que afectan al tratamiento de los datos que se utilizan en una organizacion
+
+Es algo que ya no es opcional para una empresa sino es ya casi como requisito obligatorio realizar protocolos de seguridad
+Errores comunes de las empresa en cuanto a seguridad informatica
+ERRORES                                      COMO EVITARLOS
+
+Informacion importante de la que no realiza seguridad
+
+Carpetas de red compartida sin control de acceso
+
+Presencia de discos duros portatiles sin que la organizacion conozca y tenga inventariados quien los utiliza y que informacion pueden tener almacenada
+-El backup es la primera linea de aplicacion de defensa en seguridad informatica.
+
+Tirar los ordenadores y discos a la basura sin ningun control previo de su contenido.
+La seguridad de la informacion se articula sobre tres dimensiones y son los pilares aplicables para medidas de proteccion de informacion
+
+Apuntes
+Acordar sobre INCIBE
+Hired Boot
+
+
+
+
+
+
+
+Problemas tecnicos de logueo u otros: 
+cursos.tecnologia@formacion.edu.sv
