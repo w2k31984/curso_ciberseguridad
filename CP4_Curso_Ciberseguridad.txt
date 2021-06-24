@@ -1,0 +1,70 @@
+----Amenazas y vulnerabilidades, clasificacion de la informacion-------
+Amenazas
+
+Vulnerabilidades y Amenazas
+Ciberamenaza y que es una vulnerabulidad cuales vulnerabilidades pueden ser un 
+riesgo para el negocio, sabemos como afecta un incidente a la empresa Esta la empresa
+en riesgo.
+*Vulnerabiliadd es una debilidad o fallo en un sistema de informacion pudiendo permitir que 
+un atacante pueda comprometer la integrdad, disponibilidad o confidencialidad de la misma por que
+que necesario entrarlas, eliminarlas lo antes posible.
+Estos agujeros pueden tener distintos origenes por ejemplo: Fallos de diseño, errores de configuracion
+o carencia de procedimientos.
+
+*Amenaza: Toda accion que aprovecha una vulnerabilidad para atentar contra la seguridad de un sistema
+de informacion
+Las amenazas pueden proceder de :
+-Ataques (Fraude, Robos, Virus)
+-Sucesos fisicos(Incendios, inundaciones)
+-Problemas relacionados a estatica o electricos.
+-Negligencia y decisiones institucionales(Mal manejo de contraseñas)
+"Planifica para lo peor esperando lo mejor"
+
+Riesgos
+Probabilidad que se produzca un incidente de seguridad, materializandose una amenaza y causando
+perdidas o daños, se mide asumiendo que existe uan cierta vulnerabilidad fte. a una determinada amenaza como puede ser
+un hacker, un ataque de denegacion de servicios, etc.
+El riesgo depende de varios factores:
+-La probabilidad de que la amenaza se materialize aprovechando una vulnerabilidad y produciendo un daño o impacto
+El producto de estos fatores representa el riesgo.
+
+Clasificacion de la informacion
+Es un proceso que deben llevar a cabo todas las organizaciones que decidan implantar un sistema de gestion de informacion
+de acuerdo al estandar ISO/IEC 27001
+El proceso de clasifiacion de la informacion se puede dividir en 4 pasos:
+Paso1: Inventario de los activos:
+Etapa fundamental para el proceso de clasificacion, ya que se deben tener en consideracion
+todos los recursos con los que cuenta la organizacion tanto en forma fisica como en forma digital.
+Es necesario catalogar varias caracteristicas adicionales, tamaño, ubicacion, servicios o departamentos.
+
+Paso 2: Criterios de clasificacion:
+Estandar ISO/IEC 27001 indica lo que cada organizacion debe establecer los criterios que mejor se adapten  a sus 
+circunstancias particulares.
+Entre mas detalle haya de nuestro inventario habra mejor criterio para poder establecer el proteger la informacion
+Criterios : 
+Confidencial
+Restringido
+Uso Interno
+Acceso Publico
+
+Paso 3: Clasifiacion de cada Activo:
+Una vez identificados y criterio de clasificacion debe ser etiquetado de manera adecuada Estandar ISO/IEC 27001 
+
+
+paso 4: Tratamiento de la informacion:
+Listado con tratamientos de seguridad que se han de llevar a cabo para proteger cada activo de informacion en funcion de su clasificacion
+el cifrado de informacion , copias de seguridad y control de accesos.
+
+Con las herramientas que se identifiquen se deben aplicar tratamientos como por ejemplo:
+-Limitar el acceso a las personas o grupos correspondientes.
+-Medidas especificas como las reflejadas en el reglamento de RGPD
+-Cifrar la informacion
+-Realizar copias de seguridad
+-Informacion sujeta a acuerdos de confidencialidad concretos
+
+Auditorias periodicas que certifiquen que se estan aplicando los tratamientos estipulados para proteger
+la informacion (Agentes externos que certifiquen que se este cumpliendo)
+
+Apuntes:
+Ecosistema del riesgo / Amenaza/Sistema de Informacion/Vulnerabilidad= Riesgo.
+Mapa de ciberamenaza en tiempo real : ​https://cybermap.kaspersky.com/es

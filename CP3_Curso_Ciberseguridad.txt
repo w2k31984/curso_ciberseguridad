@@ -5,7 +5,7 @@ La ciberseguridad es una practica que consiste en tecnologias, procesos y contro
 para proteger una red, sistema y programas de ataques o vulnerabilidades ciberneticas.
 Tener una politica de seguridad cibernetica es efectiva reduce el riesgo de amenazas y tambien 
 tener politicas de autenticacion, usuarios y niveles de los mismos.
-Los pilares de seguridad de la informacionson:
+Los pilares de seguridad de la informacion son:
 1-Las personas (Usuarios)
 2-Los Procesos(Revision y actualizacion)
 3-La Tecnologia.
@@ -30,7 +30,7 @@ la aparicion de cuellos de botella son igualmente importantes La redundancia, la
 pueden mitigar las consecuencias de hardware.
 
 4-Disponibilidad
-e trata de la capacidad de un servicio, un sistema o una información, a ser accesible y utilizable por los usuarios o procesos autorizados cuando 
+Se trata de la capacidad de un servicio, un sistema o una información, a ser accesible y utilizable por los usuarios o procesos autorizados cuando 
 éstos lo requieran. 
 
 Herramientas de interes:

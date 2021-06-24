@@ -1,0 +1,65 @@
+-------Politicas de Seguridad---------------
+1) Minimizar los riesgos de ataques.
+Actiualizarse o morir! O se actualizan los equipos o vamos quedando vulnerables todo depende de los 
+equipos que tenemos para los equipos, la actualizacion de herramientas en el servidor son importantes se puedan
+tener actualizados.
+Las actualizaciones en su mayoria traen parches y mejoras de seguridad.
+Debemos saber que no es posible en las empresas tener software con licencias originales y no software craqueado
+igual con software totalmente actualizado.
+Se debe tener una politica de actualizaciones y protocolos de actualizaciones para sistemas, servicios y programas de uso
+de diferentes areas de la empresa esto aplica a dispositivos computacionales y de telefonos, tablets, etc.
+-Solo tener los antivirus nativos no son suficientes meddas se debe tener un antivirus profesional
+
+2)¿Que tengo que actualizar?
+Antivirus como primer paso, mantener las actualizaciones al dia, de los sistemas operativos, al igual navegadores, software del sistema
+y los programas antivirus y protectores de malware.
+Mantener actualizado el firmware de los equipos electronicos.
+Actualizar el software de las VPN
+Equipos de IoT, IA, etc. 
+
+3)¿Como se cuando hay que actualizar?
+Tener activadas las alertas de cuando debe actualizarse los sistemas operativos y estar pendiente de los sitios de fabricantes o
+distribuidores sobre mas actualizaciones.
+Se debe tener un inventario de software y de firmware con informacion de dicho software.
+Tener presente de configurar en los equipos las actualizaciones automaticas.
+
+4)¿Que precauciones debo tomar a la hora de actualizar?
+El equipo tecnico determinara el momento en el que ejecutara las actualizaciones para no interferir
+con las operaciones de la empresa.
+Antes de instalar consideremos la utilidad de las nuevas mejoras y la gravedad de los errores que subsanan, asi como los
+requisitos  de hardware/software necesarios.
+Disponer de un entorno de pruebas para instalar y probar las actualizaciones para verificar que su 
+funcionamiento no afecte el funcionamiento normal en produccion.
+Es recomendable este paso en actualizaciones de aplicaciones criticas instaladas en servidores (CMS, servidores web, servidores de correo, etc)
+Se debe verificar si es posible deshacer los cambios realizados en la actualizacion pues ante una situacion anomala se podria requerir hacer
+reversion de actualizacion.
+Copias de seguridad y backup siempre es necesario hacer un backup de nuestro equipo y sistemas asi tambien bases de datos antes de realizar actualizaciones.
+El software tiene un ciclo de vida por tanto debemos ser concientes de que tiene un ciclo de vida
+y caducidad.
+
+--------------Phishing---------------
+1)¿Que es phishing?
+Es una tecnica que consiste en envio de correo electronico malicioso, simulando al usuario ser una
+autoridad legitica con el fin de robar informacion privada realizar un cargo economico, o infectar el dispositivo para ello se adjutan archivos infectados o enlaces a paginas fraudulentas en correos electronicos.
+
+
+2)¿Como Evitarlo?
+Revisar detalles de correo electronico, a la menor duda es mejor consultar a la entidad de la que se nos esta enviando dicho correo y asi evitar tal fraude.
+Ver si es un correo electronico malisioso o no veamos esta infografia:
+https://www.osi.es/sites/default/files/docs/c14-pdf-infografia-identificar_phishing.pdf
+
+
+3)Herramientas en linea para evitar phishing
+Para validar que el sitio es legitimo utilizamos la siguiente herramienta:
+https://whois.domaintools.com/
+
+Si en un correo recibido contiene una URL valida se puede analizar con virustotal para ver archivos que se descarguen en correo.
+https://www.virustotal.com/old-browsers/
+
+Habilitar para ver extensiones de archivos que se van recibiendo.
+
+
+Apuntes:
+Video demostrativo: ​https://view.genial.ly/5ebd2a4f8e243b...
+¿Que es Phishing?: https://www.youtube.com/watch?v=uhzV5-iFb5E
+Phishing= El Anzuelo en tu bandeja de Entrada.
