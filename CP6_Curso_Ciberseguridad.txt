@@ -1,0 +1,79 @@
+-------Roles de Seguridad de la informacion y Activos de informacion------
+Politicas de Seguridad
+
+1)¿Que son las politicas de seguridad?
+Se trata de un documento derivado de las regulaciones, normas, estandares y guias de buenas practicas donde se recogen los planes, procedimientos y procesos que dictamina como una compañia protege los activos de informacion de la empresa.
+Se suele conocer como documento vivo o sea sujeto a cambios en el tiempo por diferentes factores economicos, cambios tecnologicos, etc
+Y debe ser revisado constantemente por entes externos para certificar nuestras politicas redactadas y acordes a situacion de la empresa.
+La clave de una politica es la actualizacion constante.
+1)Redaccion
+2)Revision
+3)Aprobacion
+4)Publicacion
+5)Actualizacion
+Objetivo principal
+1)Preservar confidencialidad e integridad de la informacion
+2)Asi como la disponibilidad de los sistemas
+Deberia ser informado el empleado al inicio de su llegada a la empresa sobre esto como induccion inicial a todos.
+La politica de ciberseguridad debe tener los siguientes datos:
+-Control de accesos
+-Clasificacion y manejo de la informacion
+-Seguridad fisica y ambiental
+-Cartas de confidencialidad
+-Transferencia de informacion (Listas blancas en servidor)
+-Dispositivos moviles -BYOD
+-Restricciones del uso e instalacion de software
+-Copias de respaldo
+-Proteccion ante software malicioso.
+-Gestion de vulnerabilidades
+-Relacion con proveedores
+-Gestion y manejo de incidencias de ciberseguridad
+-Plan de continuidad del negocio.
+-Formacion y concientizacion en ciberseguridad
+-Seguridad de las operaciones
+
+2)¿Por que debo disponer de una estrategia de ciberseguridad?
+Hay muchos aspectos que determinarn la estrategia de ciberseguridad
+1) La dependencia de las industrias a la infraestructura de red en sus procesos productivos.
+2) El software malicioso como una amenaza de primer nivel 
+3)Cualquier negocio puede estar en riesgo de ataque.
+4) La existencia de casos conocidos especificos para sistemas de control
+5) El cibercrimen se ha convertido en un gran negocio muy lucrativo
+6) El cibercrimen como servicio facilitando actividades ilegales en la red mediante provisionamiento de servicios
+
+https://www.incibe-cert.es/blog/importancia-estrategia-ciberseguridad-industria#:~:text=Adem%C3%A1s%20de%20proteger%20una%20compa%C3%B1%C3%ADa,ayuda%20a%20conseguir%20sus%20objetivos.
+
+Plantillas de estrategias de ciberseguridad
+https://protegermipc.net/2020/02/05/plantillas-politicas-seguridad-de-la-informacion/
+
+3)Claves de una buena estrategia de ciberseguridad?
+Identificar elementos mas importantes a lo menos importante, mas productivo a menos productivos, mas criticos a menos criticos.
+
+Las politicas se dividen en: 
+1) Prevension: Para un buen control de ciberseguridad
+2) Deteccion:Identificar amenazas y vulnerabilidades 
+3)Recuperacion: Una vez detectado un incidente de ciberseguridad se aplica esta medida,
+https://www.itdigitalsecurity.es/actualidad/2020/05/claves-para-llegar-a-una-estrategia-de-ciberseguridad-adecuada-para-la-empresa
+
+4)Politicas de ciberseguridad en casa.
+  1) Cambiar contraseñas del Router. W+R = Ejecutar cambiar contraseña router cada 15 dias.
+  2)O con comando CMD (Simbolos del Sistema) utilizaremos el comando ipconfig para identificar la IP ejemplo 192.168.1.1
+  3)Politica de controles parentales.
+  4)Revisar el historial de navegacion de internet y borrarlo.
+  5)No conectarse a redes wifi publicas y/o gratuitas.
+  6)Actualizar todos los dispositivos/software conectados a la red.
+
+Avisos:
+Hoy termina el modulo basico sesion # 6.
+El examen de nivel basico estara disponible desde ahora hasta el dia Lunes 28/06/2021.
+Todas las tareas que se han dejado hasta este dia, no son actividades evaluadas.
+La asistencia no marcada se podra marcar sin problemas
+
+Grupo de Telegram para poder conectarse:
+https://t.me/joinchat/_wmlLpCcTr85MjNh
+Apuntes: 
+-NRP-24 NORMAS TÉCNICAS PARA EL SISTEMA DE GESTIÓN DE LA CONTINUIDAD DEL NEGOCIO
+-​https://www.youtube.com/watch?app=des...
+-​https://view.genial.ly/60a69944b543df...
+​-BYOG = Bring Your Own Gadget
+-Generador de contraseñas seguras: https://www.lastpass.com/es/password-generator

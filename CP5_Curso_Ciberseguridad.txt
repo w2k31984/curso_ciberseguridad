@@ -53,6 +53,17 @@ https://www.osi.es/sites/default/files/docs/c14-pdf-infografia-identificar_phish
 Para validar que el sitio es legitimo utilizamos la siguiente herramienta:
 https://whois.domaintools.com/
 
+4) Deshabilitacion de las macros en libros de excel, esto tiene que ver con codigo que no tiene que ver con microsoft sino construido por otros usuarios.
+El problema con el phishing es que parece un correo que parece estar bien y en realidad en un archivo posiblemente sea un libro de excel o word y al dar doble click se ejecuta un macro con codigo malicioso como malware. en Centro de Confianza/configuracion centro de confianza/deshabilitar todas las macros y se configura para deshabilitar macros.
+para asi no permitir que se infecte el equipo.
+
+5) Los acortadores de URL's pueden ser potenciales a poder ser fuentes de phishing.
+​https://bitly.com/
+
+​https://unshorten.me/
+cpanel: acceso a servicios que poseeo en cuanto a correo electronico y su configuracion.
+
+
 Si en un correo recibido contiene una URL valida se puede analizar con virustotal para ver archivos que se descarguen en correo.
 https://www.virustotal.com/old-browsers/
 

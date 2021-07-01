@@ -1,0 +1,67 @@
+---Evaluacion (Analisis) de Riesgos---
+Definicion:
+
+
+Fases a Seguir:
+Fase1: Definicion del alcance
+¿Como se determina el riesgo real?
+¿Cual es el departamento o area que vamos a analizar?
+Ejemplo "Alcance del analisis de riesgo para las actividades comerciales del negocio".
+
+Fase 2: Identificacion de los activos
+¿Cuales son los activos mas relevantes para el departamento comercial de la empresa?
+¿Cuales son los activos de informacion?
+Recursos para crear, transmitir, almacenar, procesar y eliminar informacion que resultan relevantes para el funcionamiento de la empresa.
+Para un negocio con tienda en linea los activos serian:
+-Pagina Web
+-Los equipos (Computadores, tablets, celulares)
+-Bases de datos (digitales, en la nube, etc)
+-Empleados con accesos a datos sencibles.
+-Datos confidenciales de la empresa
+
+Fase3: Identificacion de Amenazas
+-Saturacion de servidores y caida de sitio.
+-Infeccion de equipos informaticos
+-Rodo o fuga de informacion de los clientes (Hasta consecuencias legales)
+-Mala utilizacion y gestion de las tecnologias
+-Robo de informacion propia de la empresa (Manual de marca, logos, etc)
+
+Fase4: Identificacion de vulnerabilidades
+-Ausencia de firewall
+-Equipos de software obsoleto
+-Antivirus desactualizados
+-Mala gestion de los accesos
+-Falta de conocimiento en los empleados
+-No existe un plan de copias de seguridad
+-No implementar cifrados en claves y accesos.
+Fase 5: Evaluacion y calculo del riesgo
+-¿Hay antivirus para reducir amenazas?
+-¿El Software esta actualizado? ¿Que pasa no disponer de la infraestructura a causa de un virus?
+-¿Que pasara si la pagina se cae durante largo tiempo o a cada momento?
+-¿Que pasaria si?
+Formula de riesgo
+Riesgo = Probabilidad X Impacto
+
+Probabilidad= Frecuencia con la que se materializa la amenaza (Hora, Dias, Mes)
+Impacto = Daños que producen las amenazas (Consecuencias)
+
+Fase 6: Medidas complementarias
+-Actualizar antivirus
+-Activasr contraseñas de bloqueos y actualizar cada 3 meses
+-Contol de accesos a las bases de datos.
+-Politicas de ciberseguridad
+-Capacitacion al personal
+-Control de copia
+-Control de conversion a otros formatos (PDF, etc)
+
+----------Spyware------------
+¿Que es?
+Es un tipo de malware que recopila informacion de un dispositivo y despues la envia a una entidad 
+remota sin el conocimiento o el concentimiento del propietario del equipo.
+
+
+¿Como protegernos?
+
+
+Ejemplo Real:
+

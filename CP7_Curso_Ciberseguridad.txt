@@ -1,0 +1,36 @@
+-------------Evaluacion de Riesgos-------
+-¿Que es un Rol? ¿Que Significa?
+Puestos de trabajo y asignaciones en cuanto a ciberseguridad.
+CTO o CISO tarjetas de visitas de la persona.
+CISO(Chief Information Security Office) Director de seguridad de la informacion
+-Generar e implatar politicas de seguridad de la informacion.
+-Garantizar la seguridad y provacidad de los datos.
+-Supervisar la administracion del control de acceso
+CSO(Chief Security Officer)-Responsabilidades de cada rol.
+CIO: Leer responsabilidades
+
+Principales roles de ciberseguridad:
+
+-Responsabilidades de cada rol de ciberseguridad
+
+-----------------Ramsonware------------------
+Secuestro de Datos es una extorsion que se realiza a traves de un malware que se introduce en los equipos de las empresa ordenadores portatiles y dispositivos moviles.
+Impide el acceso a la informacion cifrandola y solicitando un rescate a cambio de liberar la informacion
+Este tipo de ataque esta creciendo de forma exponencial debido a que es muy rentable para los ciberdelincuentes
+*Cada vez hay mas dispositicos secuestrables,
+*Es mas facil secuestrar la informacion debido a los avances de la criptografia
+*Se puede ocultar su actividad para lanzar ataques masivos
+*Al utilizar sistemas de pago anonimo internacional se cubren de ser rastreados a nivel mundial
+Cryptolocker Capacidad de bloquear un archivo desde una ubicacion remota y encryptar los archivos del ordenador.
+EMSISOFT : Desencriptar archivos ransomeware.
+https://www.emsisoft.com/ransomware-decryption-tools/
+Otros enlaces:
+​https://t.me/joinchat/_wmlLpCcTr85MjNh
+
+Tipos de Malware
+Ransoware
+Spyware
+Adware
+Gusanos
+Troyanos
+Redes de Robots
