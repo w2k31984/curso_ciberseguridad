@@ -1,0 +1,25 @@
+Los retos actuales nos plantean no solo una nueva vision de la nueva realidad post pandemia en los departamentos de TI, y areas dedicas a la implementacion y revision de politicas de ciberseguridad algunos de estos retos que podria mencionar son los siguientes:
+-Creacion de estrategia para modelos de trabajo hibridos.
+  *La nueva realidad trae consigo retos en cuanto a resguardar los equipos y las redes de las     compañias por tanto se vuelve imperativo poder proteger los recursos utilizados por los     empleados con protocolos, herramientas como (VPN o accesos a internet seguros) y poder
+    proteger los accesos externos a los programas de los usuarios que se encuentran laborando 
+    desde sus casas.
+
+-Concientizacion de usuarios en cuanto a validacion de informacion recibidas (Feak News) o
+ desinformacion.
+  *Necesitan estar alerta, principalmente por el rápido incremento de campañas de        desinformación de 150% en 70 países, especialmente en las redes sociales o sitios de escasa     reputacion y dudosas fuentes de informacion.
+
+-Implantacion de blockchain para sistemas de informacion desentralizados.
+  *Durante 2020, Google detectó en promedio 46,000 webs de phishing a la semana.
+  *De acuerdo con el informe anual de transparencia de Google, el 2020 ha sido un año prolífico     para la suplantación de identidad, al grado que se han detectado en promedio 46,000 webs de     phishing a la semana. La venta de contraseñas, bases de contactos o números de cuenta en la    dark web ha propiciado el incremento en ataques de ingeniería social como phishing
+
+-Capacitacion en implantacion de sistemas de deteccion de amenazas a travez de inteligencia artificial.
+  *El eslabón más débil en materia de ciberseguridad son las personas, principalmente los         colaboradores quienes pueden caer en phishing, o los excolaboradores que incurren en el            filtrado de información, de acuerdo con datos de Ostermann Research, 87% de exempleados        se llevan consigo los datos que crearon. 
+  *87% de los empleados que dejan una empresa se llevan consigo los datos que crearon en ese         trabajo.
+
+-Impulso en el desarrollo de nuevos expertos en areas de ciberseguridad (Pentesting, Hackers   eticos.)
+   *América Latina tiene una brecha de 600 mil especialistas en ciberseguridad.
+  *Uno de los retos dominantes es la falta de personal calificado en ciberseguridad, en 2019 se     estimó la existencia de entre 3 y 4 millones de especialistas en el mundo, lo cual habla de la      carencia de talento, pero también de la oportunidad de formarlos.
+
+  -La escasa o nula informacion sobre las empresas y un mapeo situacional de ciberseguridad en       nuestro pais El Salvador.
+   *los hace ser aun mas vulnerables ante amenazas internas o externas 
+    y hace que muchas en especial micro, pequeñas y medianas empresas queden a merced del robo     de informacion o vulnerables antes las amenasas y los consecuentes riestos de ser victimas de     ataques por parte de ciberdelincuentes.
