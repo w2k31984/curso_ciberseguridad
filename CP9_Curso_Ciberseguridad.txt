@@ -1,0 +1,27 @@
+------Amenazas, Cibercriminales, Malware y APT---------
+Demostracion de ataque de Ransomware
+1) Instalar virtualbox
+2) Montar la ISO de W7 Dejarlo en modo dinamico y ademas de poder utilizar no todo el espacio de ram sino 216MB  y 10 GB de disco duro
+
+3)Enlaces de interes y practica
+---------------Se requiere de extricta precaucion---------------------------
+Variantes de Malware
+
+https://github.com/ytisf/theZoo/tree/master/malware/Binaries
+
+
+TeslaCrypt
+https://github.com/ytisf/theZoo/tree/master/malware/Binaries/Ransomware.TeslaCrypt
+
+
+WannaCry
+https://www.mediafire.com/file/9f8fds9s3efg7so/WannaCry_by_Rafael.rar/file
+Contraseña: virus123321
+
+4) Herramienta para la recuperacion de informacion despues de ataque de ransomware
+  
+https://www.emsisoft.com/ransomware-decryption-tools/free-download?ref=news200203&fbclid=IwAR12xuz5G5NOdDBIbz601XzrUr-1g_nojJOEb5nbSwBLH7TvGIT9DVwwdYE
+
+Apuntes:
+¿Que es ransomware?
+https://www.youtube.com/watch?v=tDdLWN4aWh4

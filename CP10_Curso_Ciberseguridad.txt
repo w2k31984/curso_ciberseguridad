@@ -1,0 +1,15 @@
+------Implementaciones Hacking---------------------
+Contraseñas:
+-KeePass Password Safe:
+           https://keepass.info/
+
+Ver actividad de un usuario en su computadora
+-Keylogger captura de eventos en el ordenador.
+          https://www.logixoft.com/en-us/index
+
+-Spyrix Monitor personal de paga da un dia para probarlo.
+         ​https://www.spyrix.com/
+
+-YopMail para crear cuenta de correo temporal
+www.yopmail.com
+
