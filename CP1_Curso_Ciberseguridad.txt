@@ -1,5 +1,7 @@
-Definicion de Ciberseguridad: Practica de defensa de todos los sistemas electronicos, redes informaticas, equipos informaticos,servidores.
-, moviles. 
+------Ciberseguridad conceptos y definiciones-----------------------------------------------------
+Sesion 1: https://www.youtube.com/watch?v=VgtLf86WyvQ
+
+Definicion : Practica de defensa de todos los sistemas electronicos, redes informaticas, equipos informaticos,servidores, moviles.
 Practida de defensa de redes de computadoras y dispositivos.
 Categorias de Ciberseguridad:
 -Redes informaticas

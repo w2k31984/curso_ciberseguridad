@@ -1,4 +1,5 @@
 ------Amenazas, Cibercriminales, Malware y APT---------
+Sesion 9: https://www.youtube.com/watch?v=oQzBsSZAMYU 
 Demostracion de ataque de Ransomware
 1) Instalar virtualbox
 2) Montar la ISO de W7 Dejarlo en modo dinamico y ademas de poder utilizar no todo el espacio de ram sino 216MB  y 10 GB de disco duro

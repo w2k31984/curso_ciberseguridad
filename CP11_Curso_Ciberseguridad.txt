@@ -1,0 +1,58 @@
+-----Adware-----------------
+Sesion 11 Enlace: https://www.youtube.com/watch?v=23D0sJcuAk8
+
+-Definicion:
+Software o programa que muestra algun tipo de publicidad no deseada o engañosa desde paginas web o con la instalacion de algun programa. Su objetivo es obtener algun beneficio economico o incluso almacenar inforamcion privada.
+En 2019, de acuerdo a diferentes medios especializados en analisis de software maliciosos el adware se convirtio en una de las tres primeras amenazas para dispositivos moviles suponiendo el 21% de todas ellas y en 2020 las predicciones van camino de subir aun mas las cifras del año anterior.
+
+-¿Como nos afecta?
+  -Muestra anuncios publicitarios en la pantalla de cualquier dispositivos.
+  -Muestra alertas o advertencias
+  -Muestra banners con informacion falsa
+  -Cambia la pagina de inicio de nuestros navegadores
+  -Abre navegadores sin nuestro consentimiento 
+  -crea iconos extraños en nuestro escritorio
+
+-¿como se comporta?
+  -Su aparicion es muy molesta(Pero esto no es lo grave?
+  -Obtiene ingresos a traves de clic o descargas
+  -Algunos son capaces de robar informacion sensible como contraseñas, datos bancarios, etc.
+  -Ademas de mostrar publicidad y recopilar informacion
+
+-Forma de infectarse
+  -A traves de freeware o shareware Sitios web donde se obtengan sevicios gratuitos o app         gratuitas
+  -Sitios web infectados, una simple visita puede alojar estos archivos 
+-¿Como saber si he sido infectado?
+
+-¿Como Prevenirlo?
+  -La mayoria de antivirus protegen de los Adware.
+  -En caso de contagio utilizar herramientas desarrolladas para eliminar esa variante de adware     que ha infectado nuestro dispositivo.
+  -En caso de contagio se deben buscar herramientas para poder sacarlo de nuestro dispositivo.
+
+-Herramientas de desinfeccion
+  
+--------Virus en Linux------
+¿Estamos libres de virus al utilizar linux? 
+La verdad es que no ya que existen virus que pueden infectar nuestro sistema operativo y afectar directa o indirectamente.
+
+Los virus son programas que pueden ser ejecutados en cualquier S.O.
+-Segun la nvg.nist.gov existen muchisimas vulnerabilidades en linux
+-Si existen formas para poder crear virus para linux
+
+¿Porque pensamis que no hay virus para linux?
+-Los virus de windows no funcionan en linux.
+-Hay parches de seguridad para diferentes sistemas operativos.
+-Windows legal y actualizado es menos vulnerable
+-Tecnicamente es mas facil desarrollar virus para linux que para windows pero a los ciberatacantes no les interesa porque los usuarios linux son minimos que los usuarios de windows 
+
+Virus para Linux
+-Una PC con linux puede infectarse con malware e infectar otros programas.
+-Wannacry no podria propagarse por la red local por medio de linux se tendria que ejecutar manualmente.
+-A nivel de usuarios, Windows tiene mas mercado, por lo tanto los usuarios finales son mas vulnerables.
+-A nivel de servidores, Linux tienen mas mercado, por lo tanto los datacenters son mas vulnerables.
+-Estadisticas sobre vulnerabilidades en sistemas con kernel GNU/Linux:
+  https://www.mcafee.com/enterprise/es-mx/assets/data-sheets/ds-virusscan-for-linux.pdf
+  https://www.mcafee.com/enterprise/es-mx/products/virusscan-enterprise-for-linux.html
+ 
+ Apuntes:
+-https://es.statista.com/estadisticas/576870/cuota-de-mercado-mundial-de-los-sistemas-operativos/

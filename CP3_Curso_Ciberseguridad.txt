@@ -1,4 +1,6 @@
 -------------Confidencialidad, Integridad y Disponibilidad-------------------------------------------
+Sesion 3: https://www.youtube.com/watch?v=9iMZgBi1H0Q 
+
 -Validar las implementaciones de politicas y protocolos de ciberseguridad.
 1-Pilares de la seguridad de la informacion.
 La ciberseguridad es una practica que consiste en tecnologias, procesos y controles diseñados

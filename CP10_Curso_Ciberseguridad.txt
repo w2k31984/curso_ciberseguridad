@@ -1,5 +1,7 @@
 ------Implementaciones Hacking---------------------
-Contraseñas:
+Sesion 10: https://www.youtube.com/watch?v=0w4RbLO8tlQ 
+
+Proteccion y administracion de Contraseñas:
 -KeePass Password Safe:
            https://keepass.info/
 

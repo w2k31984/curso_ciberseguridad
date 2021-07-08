@@ -1,6 +1,8 @@
 ---Evaluacion (Analisis) de Riesgos---
-Definicion:
+Sesion 8: https://www.youtube.com/watch?v=iblpr6G-vNs 
 
+Definicion de Analisis de riesgos :
+ es la evaluación de los distintos peligros que afectan a nivel informático y que pueden producir situaciones de amenaza al negocio, como robos o intrusiones que comprometan los datos o ataques externos que impidan el funcionamiento de los sistemas propiciando periodos de inactividad empresarial. 
 
 Fases a Seguir:
 Fase1: Definicion del alcance

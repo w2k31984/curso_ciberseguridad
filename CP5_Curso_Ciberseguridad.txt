@@ -1,4 +1,6 @@
 -------Politicas de Seguridad---------------
+Sesion 5 : https://www.youtube.com/watch?v=Srodq5KXnO4 
+
 1) Minimizar los riesgos de ataques.
 Actiualizarse o morir! O se actualizan los equipos o vamos quedando vulnerables todo depende de los 
 equipos que tenemos para los equipos, la actualizacion de herramientas en el servidor son importantes se puedan

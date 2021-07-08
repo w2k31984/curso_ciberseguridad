@@ -1,4 +1,6 @@
 -----------------------Definiciones y conceptos de ciberseguridad.-----------------
+Sesion 2: https://www.youtube.com/watch?v=LP9b3aqtMWc
+
 1) Ciberespacio
 Se refiere a un entorno no fisico creado por equipos de comput unidos para interoperar en una
 red.
