@@ -1,0 +1,47 @@
+-----Antivirus y Vulnerabilidades en sitios web------
+Sesion 12: https://www.youtube.com/watch?v=C9gGTyOxaVY
+
+1) Antivirus
+Definicion:
+Es un tipo de software cuyo principal objetivo es detectar, bloquear y no permitir acciones maliciosas en los equipos generados por cualqueir tipo de malware y en caso que se haya producido una infeccion eliminarla o aislarla.
+
+Tipos de antivirus:
+1)Proteccion reactiva, basada en firmas :
+    Son los que tradicionalmente detectan el malware y se fundamentan en base de datos o megabases de datos donde esta    indentificado el malware generadas por el fabricante tambien conocidas como vacunas 
+    El posible archivo malicioso lo bloquea y compara
+  Contras:
+  -Si se actualiza en este momento si hay una nueva variante no estara registrada en BD del fabricante y estara 100% vulnerable     a su afectacion.
+  -Tiempo que se descubre la vacuna que es muy extendido en antivirus basados en firmas.
+  -Es posible que cuando se lanze la vacuna ya se haya creado una nueva variante.
+
+Funcionamiento.
+  1-Detectan nuevo codigo malicioso generado, 
+  2)El laboratorio de la empresa antivirus recibe la muestra, 
+  3)se crea la firma o vacuna el antivirus 
+  4)actualiza su base de datos y firma y es capaz de detectar la variante de codigo malicioso.
+
+2)Proactivo o Heuristico:
+   A parte de traer la base de datos de software maliciosos, detecta el malware con una respuesta a todas las situaciones detectadas o desencadenadas.
+ -El Malware que todavia no tiene firma igualmente lo aisla.
+ -Detecta y analiza que el archivo tiene caracteristicas de codigo malicioso y por tanto lo bloquea.
+ -El antivirus recomienda no abrir archivo pues parece sea un virus.
+
+La heuristica es considerada parte de la IA e implica aprendizaje automatico que hace sea aun mejor y mas preciso con el tiempo.
+El funcionamiento se basa en diferentes criterios donde evalua si son o no maliciosos.
+
+1) Nuevo codigo malicioso generado
+2)Analisis heuristico
+3)El Laboratorio de la empresa antivirus recibe la muestra
+4)Se crea firma o vacuna
+5)Decarga la actualizacion.
+
+Antivirus mas utilizados:
+https://www.antivirusguide.com/top-10-antivirus/?lp=default&ext=2&utm_source=google&utm_medium=cpc&sgv_medium=search&utm_campaign=6478205166&utm_content=99672426656&utm_term=best+antivirus+2021&ci
+
+Importancia de los antivirus 
+https://vegagestion.es/la-importancia-instalar-antivirus/#:~:text=Un%20antivirus%20es%20un%20programa,detectar%20o%20eliminar%20virus%20inform%C3%A1ticos.&text=Lo%20m%C3%A1s%20importante%20ser%C3%A1%20tener,de%20dispositivo%20est%C3%A1%20siempre%20protegido.
+
+2)Vulnerabilidades en sitios web.
+
+Apuntes:
+-https://www.facebook.com/watch/?v=538361277325955 ¿Que son los antivirus

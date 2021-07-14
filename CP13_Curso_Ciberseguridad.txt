@@ -1,0 +1,15 @@
+------------Vulnerabilidad en sitios Web---------
+-Sitios Vulnerables
+https://www.acunetix.com/ 
+Revisa vulnerabilidades en sitios web.
+
+-Como evitar vulnerabilidades en sitios Web
+https://mx.godaddy.com/blog/medidas-seguridad-proteger-sitio-web-mx/
+Kali Linux
+¿Que Es?
+Su principal objetivo es que coloca a disposicion de los usuarios las mejores herramientas para trabajar diferentes auditorias en
+internet.
+¿Como funciona?
+https://www.youtube.com/watch?v=SefS6C_Upqk
+¿Como Implementarlo?
+https://drive.google.com/file/d/16_sUoEWFe0BfwVB0WTMdsURl-oRvS4Vq/view
