@@ -1,0 +1,27 @@
+----------OWASP---------------------
+Sesion # 15: https://www.youtube.com/watch?v=a6RoAWNfJ2E&list=PL4lDTvxOS0Q72SpFKudEN0Nuq1NJfNirF&index=15
+¿Que significa?
+OWASP son las siglas de Open Web Application Security Project, una comunidad en línea que produce artículos, metodologías, documentación, herramientas y tecnologías en el campo de la seguridad de aplicaciones web.
+
+¿Cual es la importancia en seguridad a nivel web?
+Sirve para hacer codificaciones mas seguras.
+Enlace de interes:
+https://es.godaddy.com/blog/por-que-es-tan-importante-la-seguridad-en-una-pagina-web/
+-Top 10 OWAP
+¿Qué es el Top 10 de OWASP?
+OWASP Top 10 es la lista de las 10 vulnerabilidades de aplicaciones más comunes. También muestra sus riesgos, impactos y contramedidas. Actualizada cada tres o cuatro años, la última lista de vulnerabilidades de OWASP se publicó en 2017. ¡Vamos a sumergirnos en ella!
+Las 10 principales vulnerabilidades de OWASP en 2021 son:
+1-Inyección
+2-Autenticación rota
+3-Exposición de datos sensibles
+4-Entidades externas XML (XXE)
+5-Control de acceso roto
+6-Configuraciones incorrectas de seguridad
+7-Secuencias de comandos entre sitios (XSS)
+8-Deserialización insegura
+9-Usar componentes con vulnerabilidades conocidas
+10-Registro y monitoreo insuficientes
+
+Apuntes:
+https://wiki.owasp.org/images/5/5e/OWASP-Top-10-2017-es.pdf
+https://www.idyllum.com/?gclid=Cj0KCQjwkZiFBhD9ARIsAGxFX8DsPP1R29l2zS8Ybg1Ma99yHrSwUG9V92NJK-bFU3qI10tDKuB76ZUaAvG-EALw_wcB

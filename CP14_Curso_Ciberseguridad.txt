@@ -1,0 +1,11 @@
+-----Ataque de fuerza brura----
+Sesion # 14: https://www.youtube.com/watch?v=WGllnXHPyqM&list=PL4lDTvxOS0Q72SpFKudEN0Nuq1NJfNirF&index=14
+Amenazas de seguridad
+-Ransomware en Ubuntu
+-Instalacion de Kali Linux
+-Herramienta de usuarios y contraseñas (Diccionarios)
+-Hydra de Kali Linux
+-Ataque de fuerza bruta a un FTP
+
+Apuntes de interes:
+https://www.welivesecurity.com/la-es/2020/06/24/que-es-ataque-fuerza-bruta-como-funciona/

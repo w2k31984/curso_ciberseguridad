@@ -1,0 +1,39 @@
+-----Controles de Seguridad-----
+Sesion # 16: https://www.youtube.com/watch?v=Pj3Mz8w72hY
+1- Inyeccion SQL
+  Es un tipo de ataque a nivel web que le permite al atacante insertar sentencias de SQL maliciosas en la aplicacion web  potencialmente obteniendo acceso a datos sencibles en la base de datos destruyendo estos datos.
+ Puede utilizar esta tecnica para obtener las credenciales de los administradores y obtener un control completo del sitio web, aplicaciones y servidores de bases de datos afectados.
+Enlaces de interes:
+-https://pentest-tools.com/website-vulnerability-scanning/sql-injection-scanner-online-
+-https://geekflare.com/find-sql-injection/
+Los firewall son utilizados tambien para proteger aplicaciones web para filtrar solicitudes peligrosas o dudosas y pueden evitar 
+este tipo de inyecciones-
+
+Firewall SQL lo que se hace es declarar reglas como puertos abiertos, tipos de peticiones a realizar, bloqueos de IP's no autorizadas, etc.
+
+2-Perdida de autenticacion.
+Los atacantes tienen acceso a millones de combinaciones de pares de usuario y contraseñas conocidas (Debido a fugas de informacion).
+Los atacantes solo deben tener acceso a una cuenta para poder tener control y accesar a la base de datos.
+Enlace de interes:
+https://github.com/danielmiessler/SecLists/tree/master/Passwords
+¿Que causa la vulnerabilidad?
+-Si el sitio permite ataques automatizados
+-Sistema de recuperacion de contraseñas no seguro
+-Autenticacion Multiple
+-Sesion de ID en URL
+-Sesiones duraderas
+Enlace de interes:
+https://owasp.org/www-project-zap/
+
+3-Exposicion de datos sensibles
+Enlace de interes: ​https://www.youtube.com/watch?v=wcJBm...
+En los ultimos años este ha sido el ataque de mayor impacto el error es siempre no cifrar los datos sensibles cuando se genera
+criptografia es comun la generacion de claves, algoritmos, cifradores y protocolos los cuales son debiles 
+
+4-Perdidas de controles de accesos
+Las debilidades del control de accesos son comunes debido a la falta de deteccion automatica y a la falta de pruebas funcionales especificas por parte de desarrolladores y QA no son cubiertas generamente por pruebas automatizadas tanto estaticas como dinamicas.
+
+5-Ingenieria Social
+El engaño como arma de delito, y es utilizada para ganar confianza del usuario y conseguir que realize una accion con concentimiento de este.
+Enlace de interes: https://www.youtube.com/watch?v=Xy3QD0baCco
+
