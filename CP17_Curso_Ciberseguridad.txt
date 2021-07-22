@@ -1,0 +1,79 @@
+----Seguridad en dispositivos moviles----------------------
+Sesion # 17: https://www.youtube.com/watch?v=7lUSmU7ieoU
+
+1-BYOD
+-¿Que es?
+Trae tu propio dispositivo, El BYOD o Bring Your Own Device, en español trae tu propio dispositivo, se puede definir como la práctica en la que se alienta a los trabajadores al uso de los dispositivos que tienen en casa para acceder a los sistemas y datos empresariales. Este movimiento, que afecta a cada individuo en la empresa, desde el CEO hasta el trabajador que menos horas trabaja en la organización, es cada vez más frecuente.
+
+La lucha de los diferentes departamentos de las empresas para mantenerse al día de los constantes cambios tecnológicos continúa hasta hoy. Con esta lucha ha surgido un deseo creciente entre los empleados de llevar sus propios dispositivos para acceder a diferentes datos corporativos. El término general traiga su propio dispositivo también se refiere a otras iniciativas como traer su propia tecnología (BYOT), traer su propio teléfono (BYOP) y traiga su propio ordenador (BYOPC). Estas iniciativas han surgido para empoderar a las fuerzas de trabajo.
+
+¿Por qué recurrir a BYOD?
+Los motivos por los que recurrir a esta alternativa serían los siguientes:
+
+1. Satisfacción del empleado.
+
+Cuando se permite que los empleados lleven su propio conjunto de dispositivos, en los que ellos han invertido, en lugar de los elegidos por la propia empresa, todos se encontrarán satisfechos y, además, sabrán lo importante que es mantener a los trabajadores contentos. Diversos informes aseguran que el 60 % de los usuarios le dan una gran importancia a sus propios teléfonos móviles.
+
+2. Ahorro de costes.
+
+La reducción de costes es una clave importante para la mayoría de las empresas. Con una política del tráelo de casa implementada, hay un cambio en los costes en todos los departamentos, lo que se traduce en un gran ahorro.
+
+3. Mayor productividad e innovación.
+
+Existe una correlación positiva entre el nivel de comodidad de los empleados y su productividad. Con sus propios dispositivos, los empleados se sienten cómodos y dominan su uso. Estos dispositivos suelen estar equipados con las últimas tecnologías, lo que demuestra ser beneficioso para la empresa. Además, es muy probable que el hardware se actualice con frecuencia.
+Surge por la proliferacion de dispositivos moviles y las mejoras considerables de software y hardware o el aumento del ancho de banda en las conexiones inalambricas esto ha conseguido que smartphones, tables y laptos sean herramientas indispensables para el trabajo.
+
+-Riesgos
+Sucede que en la mayoria de las ocaciones estos beneficios estan ligados a puntos de riesgos que se deben de tener en cuenta antes de decidirse a implantarse.
+Robo, extravio o daño a dispositivos son algunos de los riesgos 
+Falta de actualizaciones de seguridad.
+Ausencia de controles de seguridad en sistemas operativos.
+Jailbreak entrar a un dispositivo android o apple para resetearlo. rrot para tener control absoluto de los recursos del telefono
+Conexiones inalambricas inseguras
+Falta de Cifrado de la inforamcion
+Ausencia de controles de seguridad para acceder al dispositivo
+Instalacion de aplicaciones no confiables.
+Ceder el dispositivo concientemente.
+Empleados que han terminado su relacion laboral con la empresa.
+
+
+
+¿Cuáles son los riesgos asociados a esta tendencia?
+Diversas vulnerabilidades asociadas a las políticas de BYOD pueden poner en riesgo tanto la seguridad del dispositivo como la información y los sistemas a los que los empleados acceden.
+
+El hecho de poder utilizar los terminales en cualquier lugar facilita que terceras personas puedan acceder físicamente a él, por robo o extravío, y, por tanto, a la información corporativa que almacena.
+
+Por otro lado, en los dispositivos móviles personales se puede acceder a todo tipo de contenidos, inaccesibles para los equipos corporativos, factor que también pone en riesgo su seguridad por la cantidad de contenido potencialmente peligroso que existe en la Red.
+
+Asimismo, el acceso a los datos corporativos de un teléfono que esté conectado a una red wifi pública también puede comprometer la seguridad del mismo, ya que este tipo de redes podría permitir a los cibercriminales lanzar ataques que pueden sustraer o modificar los datos en tránsito.  
+
+Por último, la utilización de GPS en los dispositivos posibilita averiguar la localización de los usuarios. Si se mantiene activada esta funcionalidad de manera permanente, los riesgos aumentan, dado que un atacante podría llegar a conocer las localizaciones habituales de los empleados y poner en peligro tanto a la organización como a la propia seguridad física del usuario.
+En algunas organizaciones se sigue esta politica asi nos encontramos con variedad de dispositivos personales utilizados en ambientes laborales.
+
+-Medidas de seguridad
+Se deben de implementar medidas de seguridad y protocolos que ayuden a reducir en lo posible los riesgos a los 
+que se estan expuestos.
+-La debida proteccion de la informacion
+-La correcta configuracion de los dispositicos
+-La proteccion de la conexion a redes inalambricas
+
+
+-Recomendaciones
+El cifrado de datos o del dispositivo
+La deteccion de malware
+La fortaleza y renovacion de contrase►4as
+Los dispositivos autorizados para acceder a aplicaciones.
+
+Existen una serie de medidas que los empleados de las organizaciones deben adoptar para salvaguardar la información almacenada en sus dispositivos móviles:
+
+Contar con un mecanismo de autenticación robusto, tanto para desbloquear el terminal como en cada una de sus cuentas de correo y aplicaciones.
+Tener instalado y actualizado un antivirus y asegurarse de que escanea de forma automática todos los ficheros del dispositivo.
+Desactivar la función de ubicación siempre que no se esté utilizando.
+Descargar aplicaciones únicamente desde las tiendas oficiales, tales como Google Play, Apple Store, Windows Phone, etc.
+No conectar el terminal a redes wifi desconocidas cuando se acceda a información corporativa en lugares públicos.
+Cifrar la información sensible almacenada en el teléfono y que se envíe por correo electrónico.
+Borrar los datos del terminal cuando ya no sean útiles para el ejercicio profesional.
+
+Apuntes:
+-​Los sistemas que auditan el uso de los equipos remotos como BOYD se llaman DLP Data Loss Prevention.
+-VPN + Full Disk Encryption + DLP + VDI
