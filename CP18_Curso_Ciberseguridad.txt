@@ -1,0 +1,35 @@
+---Cookies---
+Sesion # 18: https://www.youtube.com/watch?v=n72BdfdLvBs
+
+¿Que son las cookies?
+Que el usuario persiviera que el sitio web cargara de forma mas rapida
+Guarda el tiempo de navegacion y carga del usuario mejorandolo notablemente
+Guardar o personalizan preferencias y gustos del usuario
+El fichero o cookie es volatil y a la vez peligroso pues puede traer riesgo al hacerlo desde varios equipos.
+
+.
+Por ejemplo las preferencias de idioma del usuario en el que visualiza el sitio, en navegador.
+Algo similar sucede cuando iniciamos sesion 
+
+Tipos de Cookies 
+Se clsifican segun su proposito, quien las genere o el tiempo que permanecen en los dispositivos se pueden dividir en cookies propias o cookies de terceros (Las que mas cuidado debemos tener)
+Cookies propias desde pagina web visitada
+La finalidad es que los usuarios pueden navegar de mejor forma en el sitio web.
+
+Estas en teoria no recopila informacion personal de los usuarios para fines publicitarios.
+
+
+Cookies de terceros:
+No son imprescindibles para navegar correctamente y aun asi se generan o instalan en nuestro navegador.
+Recolectan informacion de gustos, habitos de consumo y emplean esta informacion para dejarnos mensajes con publicidad personalizada para estudio de mercado.
+Son responsables de poder generar contenidos de sugerencia en base a nuestras ultimas busquedas o sitios que hemos visto.
+
+Cuidados:
+-Son un tipo de archivos que se almacenan en los dispositivos sin previa autorizacion y sirve para guardar cierta informacion para que posteriormente sea recuperada.
+-Puede seguir informacion y estas son utilizadas por grandes compañias para ofrecer publicidad personalizada en base a busquedas realizadas previamente lo que en algunos casos puede considerarse como invacion de privacidad.
+
+
+
+
+
+
